@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Dec 03 11:16:46 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=appcompat_v7_fat.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|appcompat_v7>;<jar|android-support-v7-appcompat.jar>
+includes=
